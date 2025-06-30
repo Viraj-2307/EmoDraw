@@ -1,0 +1,10 @@
+mediapipe
+opencv-python
+torch
+torchvision
+torchaudio
+ftfy
+regex
+tqdm
+open_clip_torch
+pillow
